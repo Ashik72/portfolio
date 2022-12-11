@@ -837,6 +837,7 @@ header .container .toggle-btn.active span:nth-child(2) {
 
 /*End Portfolio Section*/
 /*Start Testimonials Section*/
+/* 
 .testimonials {
   margin-bottom: 10rem;
 }
@@ -921,6 +922,7 @@ header .container .toggle-btn.active span:nth-child(2) {
   z-index: -1;
   transition: all 0.5s ease;
 }
+*/
 
 /*End Testimonials Section*/
 /*Start Contact Section*/
