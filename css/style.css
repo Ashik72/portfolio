@@ -820,6 +820,13 @@ header .container .toggle-btn.active span:nth-child(2) {
   transform: translateY(125%);
   transition: all 0.3s ease;
 }
+.portfolio .container .portfolio-list .box .details .wapper-link {
+  display: flex;
+  justify-content: space-between;
+}
+.portfolio .container .portfolio-list .box .details .details-title {
+  text-align: center;
+}
 
 .portfolio .container .portfolio-list .box .details h3 {
   font-size: 2rem;
@@ -829,6 +836,10 @@ header .container .toggle-btn.active span:nth-child(2) {
 .portfolio .container .portfolio-list .box .details span {
   font-size: 1.6rem;
   text-transform: capitalize;
+}
+
+.portfolio .container .portfolio-list .box .details .link-color {
+  color: #00c0ff;
 }
 
 .portfolio .container .portfolio-list .box:hover .details {
